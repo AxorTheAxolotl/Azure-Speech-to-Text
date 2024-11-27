@@ -1,5 +1,6 @@
 # Speech-to-Text with Azure
 ### This script sets you up to talk to the microphone, and with Azure's Speech SDK, it will transcribe it and read it back to you in a chosen voice. The default key to toggle listening is `Z`. Windows only. Please note that a Speech SDK key is required to use this program. Create your Azure account before continuing.
+![Azure-preview](https://github.com/user-attachments/assets/b59a0b78-4335-4844-822b-456a6943a904)
 
 ## Setup
 ### Executable
