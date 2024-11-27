@@ -4,7 +4,7 @@
 
 ## Setup
 ### Executable
-Simply run `AzureTTS.exe` and it'll guide you from creating for `config.json` file. You will not go through this again until you move/delete the json or if some variables are blank, excluding `toggle_key`.
+Simply run `AzureTTS.exe` and it'll guide you into creating for `config.json` file. You will not go through this again until you move/delete the json or if some variables are blank, excluding `toggle_key`.
 ### Source
 The latest version of Python and pip is recommended. Download/update python at https://www.python.org/downloads/windows/, and pip with
 ```
@@ -16,11 +16,11 @@ git clone https://github.com/AxorTheAxolotl/Azure-Speech-to-Text.git
 cd Azure-Speech-to-Text
 pip install -r requirements.txt
 ```
-Finally, run the Python script `AzureTTS.py` and it'll guide you from creating for `config.json` file. You will not go through this again until you move/delete the json or if some variables are blank, excluding `toggle_key`.
+Finally, run the Python script `AzureTTS.py` and it'll guide you into creating for `config.json` file. You will not go through this again until you move/delete the json or if some variables are blank, excluding `toggle_key`.
 ```
 python AzureTTS.py
 ```
-## `config.json` Sample
+## `config.json` sample
 Your json will be created at a first run, however, if you want to make your own, the format is as follows:
 ```
 {
